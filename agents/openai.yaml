@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行照片纪念品"
+  short_description: "把旅行照片变成组合明信片、独立插画明信片和珐琅冰箱贴三张图片"
+  default_prompt: "使用 $travel-photo-keepsakes，把我上传的照片分别生成组合明信片、独立整幅插画明信片和金属珐琅冰箱贴三张图片。"
